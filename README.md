@@ -27,7 +27,3 @@ A: Ensure notifications are enabled for Egg Timer in your phone settings.
 
 If you're experiencing issues, feel free to open an issue in this repository or email us at:  
 📧 **kaansimsek.dev@gmail.com**
-
----
-
-Stay tuned for updates!
